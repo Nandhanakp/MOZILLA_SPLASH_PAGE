@@ -18,7 +18,7 @@ This project is a simple Mozilla-themed splash page that showcases Mozilla’s m
 - **YouTube Embed API**
 
 ## How to Run
-
+https://nandhanakp.github.io/MOZILLA_SPLASH_PAGE/
 ## License
 
 This project is for educational purposes only. All images and links belong to their respective owners.
